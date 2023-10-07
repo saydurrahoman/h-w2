@@ -1,0 +1,75 @@
+/* commend here */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    color: rgb(0, 0, 82);
+    background-color: #eee;
+    text-align: center;
+    font-size: 50px;
+    padding: 7px;
+    margin:0%;
+}
+h3{
+    color: orangered;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+}
+table{
+    color: rgb(11, 11, 148);
+    padding: 5px;
+    margin: 10px;
+    font-size: 30px;
+}
+ol{
+    font-size: 30px;
+    color: rgb(59, 20, 96);
+    margin: 0px 30px;
+    padding: 5px;
+}
+ul{
+    font-size: 30px;
+    color: rgb(59, 20, 96);
+    margin: 0px 30px;
+    padding: 5px;
+}
+a{
+    font-size: 20px;
+    margin: 10px 10px;
+    padding: 7px;
+    color: white;
+    background-image: linear-gradient(blue,blueviolet);
+    text-decoration: none;
+    border-radius: 20%;
+}
+iframe{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+}
+p{
+    margin: 10px;
+    font-size: 15px;
+    color: rgb(0, 0, 134);
+}
+blackquote{
+    margin: 0px 10px;
+}
+h4{
+    margin: 10px;
+    font-size: 18px;
+    color: blueviolet;
+}
+address{
+    margin: 10px;
+}
+video{
+    width: 500px;
+    height: auto;
+    margin: 10px;
+}
+audio{
+    margin: 10px;
+}
